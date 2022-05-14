@@ -7,7 +7,7 @@ Thanks for checking out this coffee website.
 This project is designed to pratices more on your grid, flex-box and responsive layout.
 
 ### Design
-This design is inspired by mr. web designer.
+This design was inspired by mr. web designer.
 
 ### Built with
 
