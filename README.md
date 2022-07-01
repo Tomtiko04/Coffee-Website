@@ -13,8 +13,8 @@ This design was inspired by mr. web designer.
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- Grid
+- CSS Flexbox
+- CSS Grid
 - Javascript
 
 ## Author
