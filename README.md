@@ -1,7 +1,7 @@
-# Ogunneye oyinkansola - COFFEE WEBSITE
+# Ogunneye Oyinkansola - COFFEE WEBSITE
 
 ## Welcome! 👋
-Thanks for checking out this coffee website.
+Thanks you for checking out this coffee website.
 
 ## project
 This project is designed to pratices more on your grid, flex-box and responsive layout.
@@ -18,4 +18,4 @@ This design was inspired by mr. web designer.
 - Javascript
 
 ## Author
--Email - [ogunneyeoyinkansola@gmail.com]
+-  Email - [ogunneyeoyinkansola@gmail.com]
